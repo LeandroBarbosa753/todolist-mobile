@@ -78,17 +78,46 @@ Depois disso, você poderá escanear o QR code com o aplicativo **Expo Go** ou r
 ## 📸 Capturas de Tela
 
 Abaixo estão algumas capturas que demonstram a funcionalidade e a interface do sistema de gerenciamento de tarefas:
-| **🔐 Tela de Login**<br>Tela de autenticação do usuário para acesso ao sistema. | **📝 Cadastro de Novo Usuário**<br>Formulário para criação de uma nova conta de usuário. |
-|:--------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|
-| <img src="images/login.png" width="300"/> | <img src="images/cadastro.png" width="300"/> |
 
-| **🧭 Tela Principal**<br>Interface principal do sistema, onde é possível visualizar as tarefas ativas e concluídas. | **➕ Adicionando uma Nova Tarefa**<br>Formulário para adicionar uma nova tarefa à lista. |
-| :-----------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
-|                                <img src="images/tela%20principal.png" width="300"/>                                 |                 <img src="images/adicionando%20tarefa.png" width="300"/>                 |
+### 🔐 Tela de Login
 
-| **✅ Tarefa Adicionada com Sucesso**<br>Exibição da tarefa recém-adicionada na lista principal. | **✔️ Tarefa Marcada como Concluída**<br>Tarefa marcada como concluída, destacando a funcionalidade de controle de status. |
-| :---------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: |
-|                     <img src="images/tarefa%20adicionada.png" width="300"/>                     |                                  <img src="images/tarefa%20concluída.png" width="300"/>                                   |
+Tela de autenticação do usuário para acesso ao sistema.  
+<img src="images/login.png" width="300"/>
+
+---
+
+### 📝 Cadastro de Novo Usuário
+
+Formulário para criação de uma nova conta de usuário.  
+<img src="images/cadastro.png" width="300"/>
+
+---
+
+### 🧭 Tela Principal
+
+Interface principal do sistema, onde é possível visualizar as tarefas ativas e concluídas.  
+<img src="images/tela%20principal.png" width="300"/>
+
+---
+
+### ➕ Adicionando uma Nova Tarefa
+
+Formulário para adicionar uma nova tarefa à lista.  
+<img src="images/adicionando%20tarefa.png" width="300"/>
+
+---
+
+### ✅ Tarefa Adicionada com Sucesso
+
+Exibição da tarefa recém-adicionada na lista principal.  
+<img src="images/tarefa%20adicionada.png" width="300"/>
+
+---
+
+### ✔️ Tarefa Marcada como Concluída
+
+Tarefa marcada como concluída, destacando a funcionalidade de controle de status.  
+<img src="images/tarefa%20concluída.png" width="300"/>
 
 ---
 
