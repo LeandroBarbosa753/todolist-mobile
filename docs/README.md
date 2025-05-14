@@ -79,16 +79,16 @@ Depois disso, você poderá escanear o QR code com o aplicativo **Expo Go** ou r
 
 Abaixo estão algumas capturas que demonstram a funcionalidade e a interface do sistema de gerenciamento de tarefas:
 | **🔐 Tela de Login**<br>Tela de autenticação do usuário para acesso ao sistema. | **📝 Cadastro de Novo Usuário**<br>Formulário para criação de uma nova conta de usuário. |
-|:---------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------:|
-| ![Login](images/login.png) | ![Cadastro](images/cadastro.png) |
+|:--------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|
+| <img src="images/login.png" width="300"/> | <img src="images/cadastro.png" width="300"/> |
 
 | **🧭 Tela Principal**<br>Interface principal do sistema, onde é possível visualizar as tarefas ativas e concluídas. | **➕ Adicionando uma Nova Tarefa**<br>Formulário para adicionar uma nova tarefa à lista. |
 | :-----------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
-|                                   ![Tela Principal](images/tela%20principal.png)                                    |                  ![Adicionando Tarefa](images/adicionando%20tarefa.png)                  |
+|                                <img src="images/tela%20principal.png" width="300"/>                                 |                 <img src="images/adicionando%20tarefa.png" width="300"/>                 |
 
 | **✅ Tarefa Adicionada com Sucesso**<br>Exibição da tarefa recém-adicionada na lista principal. | **✔️ Tarefa Marcada como Concluída**<br>Tarefa marcada como concluída, destacando a funcionalidade de controle de status. |
 | :---------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: |
-|                      ![Tarefa Adicionada](images/tarefa%20adicionada.png)                       |                                    ![Tarefa Concluída](images/tarefa%20concluída.png)                                     |
+|                     <img src="images/tarefa%20adicionada.png" width="300"/>                     |                                  <img src="images/tarefa%20concluída.png" width="300"/>                                   |
 
 ---
 
